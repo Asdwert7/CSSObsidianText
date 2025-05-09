@@ -1,0 +1,81 @@
+
+/* 🔴 Главная тема */
+.theme-main {
+  background-color: #CC532A;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🟡 Подтемы */
+.theme-sub {
+  background-color: #FFDE4C;
+  color: black;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🟢 Подчёркивание важных пунктов */
+.theme-success {
+  background-color: #72C580;
+  color: black;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* ⚪️ Стандартный текст */
+.theme-default {
+  background-color: #FEFAFA;
+  color: black;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🩷 Всё жирное в обычном тексте */
+.theme-bold {
+  background-color: #FFC3CD;
+  color: black;
+  font-weight: bold;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* ❤️ Красный акцент */
+.theme-danger {
+  background-color: #CA3141;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🔵 Синий акцент */
+.theme-blue {
+  background-color: #1FAEE9;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🟣 Фиолетовый акцент */
+.theme-purple {
+  background-color: #684FA3;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 🟦 Синий фон */
+.theme-note {
+  background-color: #4D7198;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+/* 💖 Розовый яркий */
+.theme-pink {
+  background-color: #FF1197;
+  color: white;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
