@@ -1,0 +1,10 @@
+{
+  "id": "wrap-selection-plugin",
+  "name": "Wrap Selection Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Wraps selected text in a span with class",
+  "author": "Asdwert7",
+  "authorUrl": "https://github.com/Asdwert7",
+  "main": "main.js"
+}
